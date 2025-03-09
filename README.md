@@ -60,3 +60,5 @@ To verify the certificates, click the images to follow the links.
 
   <a href="https://www.coursera.org/account-profile"><img src="https://user-images.githubusercontent.com/84391594/161431807-63db38f1-2203-4383-aa6e-ad8b6e42ee55.png" height="420"></a>
 </p>
+
+Aknowledgement to DanielBarnes18
