@@ -1,6 +1,6 @@
 # IBM Applied Data Science Capstone
 <p align="center">
-  <img src="TitlePage.png" width="1200">
+  <img src="/Images/TitlePage.png" width="1200">
 </p>
 
 ## 📄 Summary
@@ -57,7 +57,8 @@ This project follows these steps:
 
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
-
+<p align="middle">
+  <a href="https://coursera.org/share/5e5a605506ebea71a5d4f1a474b50347"><img src="/Images/IBM Data Science Capstone Certificate.png" height="420"></a>
   <a href="https://www.coursera.org/account-profile"><img src="https://user-images.githubusercontent.com/84391594/161431807-63db38f1-2203-4383-aa6e-ad8b6e42ee55.png" height="420"></a>
 </p>
 
